@@ -1,2 +1,2 @@
-# Chal
+# Challenge
 Challenge for edx 

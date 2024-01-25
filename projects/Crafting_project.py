@@ -1,7 +1,7 @@
 import sys
 import inflect
 def main():
-    print(craft_req(input("The item you want to craft: "), 5))
+    print(craft_req(input("The item you want to craft: "), ))
 
 def check_dictionary(search):
     try:

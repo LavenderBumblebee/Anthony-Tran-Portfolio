@@ -1,6 +1,5 @@
  # Crafting Requirement's Program
     #### Video Demo: https://youtu.be/fVwX904CagY?si=gpg7OUG_ZAZnoTS-
- # Description:
 
 # Purpose of the program:
 My program’s purpose is to return the crafting requirements for a number of a particular item in a game. The item in question is specified as an argument, and the amount of that item you want to craft can be taken as a second argument, or can be left blank wherein thereafter running the code with one argument, an input is brought up to get the amount. When run through the **craft_req** function, it returns the crafting requirements for said item taken into account the amount of said item, along with an image of the item.

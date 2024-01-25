@@ -1,4 +1,4 @@
-# Me as a programmer Anthony-Tran-Portfolio
+# Me as a programmer
 
 ## Why I'm doing this 
 I started learning programming near the end of 2023 as I felt I need a career change. I did not like what I was doing and 
